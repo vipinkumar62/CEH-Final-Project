@@ -37,6 +37,10 @@ This project simulates real-world network attacks and defense strategies using K
 - `nmap -v -p- IP` – Full port scan
 - `nmap -sV IP` – Service version detection
 - `nmap -O IP` – OS detection
+- ![Screenshot_2025-05-17_15_01_36](https://github.com/user-attachments/assets/592c28eb-9a6b-4cc0-b327-b9d1d5bbe57e)
+![Screenshot_2025-05-17_15_02_39](https://github.com/user-attachments/assets/b4eb1df7-78d6-4796-8bc3-ad911bbd8270)
+![Screenshot_2025-05-17_15_02_59](https://github.com/user-attachments/assets/6889f9bf-d012-469d-85e2-3771f3939d7a)
+
 
 ### 🔐 Hidden Ports Discovered
 Ports like `8787`, `36588`, `53204`, etc., found through full port scans.
@@ -50,6 +54,9 @@ Ports like `8787`, `36588`, `53204`, etc., found through full port scans.
 - **vsftpd 2.3.4** backdoor
 - **SMB 3.0.20-Debian** using Metasploit
 - **Rexec/Rlogin/Rsh** services using script-based vulnerabilities
+- ![Screenshot_2025-05-17_15_03_45](https://github.com/user-attachments/assets/ccd0cd3c-73df-43b7-8a52-495368656b4b)
+![Screenshot_2025-05-17_15_03_59](https://github.com/user-attachments/assets/6b130ea4-a2c6-4a13-99b3-915cf6b2787e)
+
 
 ### 👤 Privilege Escalation
 - Created user `vipin` with root permissions
